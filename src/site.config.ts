@@ -52,7 +52,7 @@ const config: SiteConfig = {
     mode: 'select',
     // The default theme identifier, used when themeMode is "select" or "light-dark-auto".
     // Make sure this is one of the themes listed in `themes` or "auto" for "light-dark-auto" mode.
-    default: 'vesper',
+    default: 'slack-ochin',
     // Shiki themes to bundle with the site.
     // https://expressive-code.com/guides/themes/#using-bundled-themes
     // These will be used to theme the entire site along with syntax highlighting.
@@ -152,10 +152,10 @@ const config: SiteConfig = {
   // Social links to display in the footer.
   socialLinks: {
     github: 'https://github.com/aherendeen',
-    mastodon: 'https://mastodon.social/@aherendeen',
+    mastodon: 'https://mastodon.social/@sixers',
     email: 'mailto:andrew@aherendeen.com',
     linkedin: 'https://www.linkedin.com/in/herendeenandrew',
-    bluesky: 'https://bsky.app/profile/aherendeen',
+    bluesky: 'https://bsky.app/profile/aherendeen.bsky.social',
     twitter: 'https://x.com/_aherendeen',
     rss: true, // Set to true to display an RSS feed link in the footer; works only if RSS generation is implemented in your build process
   },
