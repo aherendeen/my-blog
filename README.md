@@ -65,6 +65,6 @@ This project is licensed under the [MIT License](LICENSE.txt).
 
 ## 💙 Sponsor
 
-Consider [buying me a coffee](https://ko-fi.com/aherendeen) to keep me caffeinated while I work on open source projects like this one!
+Consider [buying me a coffee](https://buymeacoffee.com/aherendeen) to keep me caffeinated while I work on open source projects like this one!
 
 [![Star History Chart](https://api.star-history.com/svg?repos=aherendeen/my-blog&type=Date)](https://www.star-history.com/#aherendeen/my-blog&Date)
